@@ -13,14 +13,18 @@
 * _Slant_ 
 * ~~Strike~~
 
+| This          | is a          | Table |
+| ------------- |:-------------:| -----:|
+| 123414421     | jasdhjahakdka | 00000 |
+| 1379138013    | ajkdaakk      |  0000 |
+| TABLESSSSSSSS | hasjhdkj      |    00 |
 
 
+> “I said ‘Somebody should do something about that.’ Then I realized I am somebody.” ― Lily Tomlin
 
-
-
-
-
-
+```javascript
+var x = "JavaScript";
+```
 
 You've reached the end....
 ***
